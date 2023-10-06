@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaheshRupnavar
-- 💻 I’m a React Native Android Developer
+- 💻 I’m a React Native Developer
 - ❤ My favourite Stack is JavaScript , React Native , ReactJs , Python , Amazon Web Services , Azure , Firebase .
 - 💻 Current role React Native Android Developer.
 - 🌱 I’m currently learning Angular.
